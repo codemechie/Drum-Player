@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DrumPlayer.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
